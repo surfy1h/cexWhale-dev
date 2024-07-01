@@ -17,13 +17,13 @@ The account password is here https://github.com/luxun9527/gex/blob/main/resource
 
 
 
-## 运行项目
+## Run the project
 
-项目依赖的中间件：消息组件pulsar，数据库mysql,redis，分布式事务dtm，websocket推送gpush。
+The middleware the project depends on: message component pulsar, database mysql, redis, distributed transaction dtm, websocket push gpush.
 
-1、配置一个host 映射， api.gex.com:项目地址
+1. Configure a host mapping, api.gex.com: project address
 
-2、项目已经整理好docker-compose文件，依赖和程序分别在不同的docker-compose文件，使用docker-compose即可一键启动项目，docker版本不能太旧具体如下。
+2. The project has been organized into docker-compose files. The dependencies and programs are in different docker-compose files. You can use docker-compose to start the project with one click. The docker version cannot be too old. The details are as follows.
 
 ```shell
 root@ubuntu:~/smb# docker-compose -v
