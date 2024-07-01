@@ -1,20 +1,8 @@
-# go微服务实践-基于go-zero实现一个数字货币交易平台。 
+# go microservice practice - implement a digital currency trading platform based on go-zero. 
 
-在线体验 斥巨资搞了台机器  http://47.113.223.16 
+Online experience: Spend huge sums of money to build a machine http://47.113.223.16
 
-账户密码在这 https://github.com/luxun9527/gex/blob/main/resource/users.txt
-
-
-后端：https://github.com/luxun9527/gex   您的star,点赞评论是我更新的动力
-
-前端：https://github.com/luxun9527/gex-ui
-
-基于go-zero 实现一个数字货币交易平台现货交易的基本功能。
-
-- 限价单，市价单的撮合。
-- 基本行情(盘口，k线，tick)，以及个人订单变化的实时推送。
-
-## 基本架构
+The account password is here https://github.com/luxun9527/gex/blob/main/resource/users.txt
 
 ![](https://cdn.learnku.com/uploads/images/202403/24/51993/qySFFLK2ia.png!large)
 
